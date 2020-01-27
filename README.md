@@ -1,1 +1,0 @@
-# geekbrains_database_fundamentals
